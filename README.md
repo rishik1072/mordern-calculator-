@@ -3,12 +3,11 @@
 A modern, sleek web calculator built with **React**, **Vite**, and **Tailwind CSS**. It features a glassmorphism UI, vibrant gradients, and smooth animations powered by Framer Motion.
 
 ---
-
-## Demo
-
-![Calculator screenshot]("C:\Users\rishi\Pictures\Screenshots\Screenshot 2026-05-27 183025.png")
-
-
+## Preview
+<p align="center">
+  <img src="./screenshots/Screenshot%202026-05-27%20183025.png" width="45%" />
+  <img src="./screenshots/Screenshot%202026-05-27%20183305.png" width="45%" />
+</p>
 ---
 
 ## Features
